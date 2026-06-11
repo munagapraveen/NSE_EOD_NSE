@@ -1,0 +1,6 @@
+*.pyc
+*.db
+*.csv
+Todo.txt
+*.log
+*.xlsx
